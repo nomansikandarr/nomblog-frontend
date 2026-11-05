@@ -1,11 +1,15 @@
-
+import SignIn from "./pages/SignIn"
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 function App() {
   
 
   return (
     <>
-      <h1 className="text-5xl text-amber-400">nomblog</h1>
+      <Header />
+      <SignIn />
+      <Footer/>
     </>
   )
 }
