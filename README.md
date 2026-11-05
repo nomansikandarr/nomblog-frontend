@@ -13,7 +13,7 @@ A blog application built with React, Vite and Tailwind CSS.
 
 Clone the repository:
 
-    git clone YOUR_REPOSITORY_URL
+    git clone https://github.com/nomansikandarr/nomblog-frontend
 
 Install dependencies:
 
